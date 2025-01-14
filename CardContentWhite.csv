@@ -1,81 +1,153 @@
-text,link,new
-"Fighting open science with open science","https://forrt.org/glossary/english/open_washing/",FALSE
-"Peer-reviewed cat memes","https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html",FALSE
-"AI-generated research papers","https://www.nature.com/articles/d41586-023-02218-z",FALSE
-"A lab meeting interrupted by a surprise llama","https://howtocatchallama.com/",FALSE
-"A 'Publish First, Ask Questions Later' approach","",FALSE
-"Diederik Stapel","https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#more-44194",FALSE
-"Your mom calling you by your ORCiD","https://info.orcid.org/researchers/",FALSE
-"Confidently ignoring all inquiries of groups trying to replicate my research","",FALSE
-"Being a failure in the eyes of everyone I care about because I am only the second author","",FALSE
-"Getting exactly 0 citations for my replication study","https://www.science.org/doi/10.1126/sciadv.abd1705",FALSE
-"Waiting until my paper gets retracted because some rando finds a bug in my code","https://twitter.com/lakens/status/1542018352968863745?s=20",FALSE
-"Your data getting scooped before you can say open sci...","https://quantpalaeo.wordpress.com/2018/02/26/been-scooped-a-discussion-on-data-stewardship/",FALSE
-"Having a little cry on the toilet","",FALSE
-"Buggy research software collecting dust in a private repository until the heat death of the universe","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0",FALSE
-"Realizing that your research is unique, your data is unique and your greatness is the most unique of them all","",FALSE
-"Making ALL your data public (with a short embargo of 50 years)","",FALSE
-"Selling our inventions to the journal Frontiers in Hell","https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html",FALSE
-"Nobody in my field caring about it","https://blogs.lse.ac.uk/impactofsocialsciences/2014/04/23/academic-papers-citation-rates-remler/",FALSE
-"My 30+ years of experience as a researcher","",FALSE
-"The upcoming publication deadline","",FALSE
-"Sexy state secrets","",FALSE
-"An Attribution-NonCommercial-ShareAlike 4.0 International license","https://creativecommons.org/choose/",FALSE
-"Turning in your final version for the fourteenth time","https://phdcomics.com/comics/archive_print.php?comicid=1531",FALSE
-"Good practice","",FALSE
-"Financing the CEO of Elsevier's fourth boat","https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science",FALSE
-"Teaching preteens how to build a nuclear bomb","",FALSE
-"Feeding the trolls with another paper they can cherry pick the s*** out of","https://blogs.lse.ac.uk/impactofsocialsciences/2018/01/11/new-research-must-be-better-reported-the-future-of-society-depends-on-it/",FALSE
-"The press reducing my nuanced findings to a flashy headline","https://www.smbc-comics.com/comic/science-journalism",FALSE
-"Asking 1800 euro to put a PDF online","https://www.youtube.com/watch?v=8F9gzQz1Pms",FALSE
-"Generations of ill-informed decision making because of walled-off flawed research","https://www.nature.com/articles/nature.2015.18248",FALSE
-"Spaghetti code and broken dreams","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0",FALSE
-"Endless bug fixes","https://the-turing-way.netlify.app/reproducible-research/testing",FALSE
-"'git blame' sessions","https://dev.to/sanspanic/blaming-git-blame-1f4o",FALSE
-"Code review therapy sessions","https://www.software.ac.uk/blog/2022-03-18-treat-your-research-code-code-review#:~:text=Code%20Review%20is%20a%20software,different%20from%20academic%20peer%20review.",FALSE
-"Committing without testing","https://the-turing-way.netlify.app/reproducible-research/testing/testing-checklist",FALSE
-"An infinite `for` loop","",FALSE
-"Copy-pasting all your respondents sensitive data into chatGPT to make a pretty boxplot","https://arxiv.org/pdf/2309.17410.pdf",FALSE
-"Being expected to never make mistakes in your research... ever!","",FALSE
-"Conveniently excluding some test subjects","https://www.mareonline.nl/en/news/psychologist-committed-fraud-in-15-articles-how-test-subjects-kept-disappearing/",FALSE
-"Threatening your participants into providing useful data","",FALSE
-"Just science done wrong","",FALSE
-"Well-cited studies with 50 failed replication attempts","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8139580/",FALSE
-"Citizen scientists breaking the only working printer","",FALSE
-"Mugs of coffee at 3 am","",FALSE
-"Making my research open and reproducible while my competitors are p-hacking their way into the big journals","https://embassy.science/wiki/Theme:6b584d4e-2c9d-4e27-b370-5fbdb983ab46",FALSE
-"Impact factors","",FALSE
-"Predatory journals","https://thinkchecksubmit.org/",FALSE
-"Sacrificing the intern","",FALSE
-"Flawless replication","",FALSE
-"A USB-stick full of sensitive data","https://www.rug.nl/digital-competence-centre/privacy-and-data-protection/data-protection/data-leak?lang=en",FALSE
-"Leaving academics to become a beet farmer","https://media.giphy.com/media/dXf93EHY6advUBYC0u/giphy.gif",FALSE
-"The effects of moon phases on stock market trends","",FALSE
-"scriptA_001_final_new_after_feedback_actually_final2.R","https://r-bio.github.io/intro-git-rstudio/",FALSE
-"Smashing things together until results fall out","",FALSE
-"Coffee stained data management plans","",FALSE
-"Post-its with 'pls do not steal thx' as a license","https://zenodo.org/record/2248200",FALSE
-"The FAIRy spreading her FAIRy principles all over our data in the night","https://www.go-fair.org/fair-principles/",FALSE
-"Workload piling up and sanity breaking down","https://www.go-fair.org/fair-principles/r1-1-metadata-released-clear-accessible-data-usage-license/",FALSE
-"Being an expert in your field AND data management AND ethics AND software development AND public engagement AND ...","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0",FALSE
-"A python 2.7 script I inherited from a previous PhD student who left 10 years ago","https://book.the-turing-way.org/collaboration/new-community/new-community-techissues.html?highlight=legacy#reproducibility-is-even-more-important",TRUE
-"A machine that's still running on Windows 95","",TRUE
-"3 hours of troubleshooting a missing comma","",TRUE
-"Dockerizing my PhD's precarious working conditions","https://book.the-turing-way.org/reproducible-research/renv/renv-containers.html",TRUE
-"Sending users to 'users/One Drive/C:/Documents/projects/grant-projects/old-grants/ERC/pilot1/'","",TRUE
-"Sofware maintained by a lonely Belgian professor","https://lavaan.ugent.be/about/about.html",TRUE
-"A tiny shell script that replaces my job","",TRUE
-"Coding with my crush","",TRUE
-"Sending code around via e-mail","",TRUE
-"Being accused of Marxist tendencies","https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308",TRUE
-"Ignoring the 10k issues users submitted to my OS project","",TRUE
-"Citing stackoverflow in your research paper","",TRUE
-"Code that explains itself","",TRUE
-"The holy grail of clean code","",TRUE
-"chatGPT","",TRUE
-"Rubber duck debugging","",TRUE
-"Putting a plain-text personal access token on GitHub","",TRUE
-"(sudo) rm -r /","",TRUE
-"Untested code generated by an LLM","https://www.itworldcanada.com/post/research-raises-concerns-over-ai-impact-on-code-quality",TRUE
-"The university suing us for making our code publicly available.","https://fair-software.nl/recommendations/license",TRUE
-"Where code goes to die","https://www.metabase.com/blog/bus-factor",TRUE
+"text","link","new"
+"Fighting open science with open science","https://forrt.org/glossary/english/open_washing/","original"
+"Peer-reviewed cat memes","https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html","original"
+"AI-generated research papers","https://www.nature.com/articles/d41586-023-02218-z","original"
+"A lab meeting interrupted by a surprise llama","https://howtocatchallama.com/","original"
+"A 'Publish First Ask Questions Later' approach","","original"
+"Diederik Stapel","https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#more-44194","original"
+"Your mom calling you by your ORCiD","https://info.orcid.org/researchers/","original"
+"Confidently ignoring all inquiries of groups trying to replicate my research","","original"
+"Being a failure in the eyes of everyone I care about because I am only the second author","","original"
+"Getting exactly 0 citations for my replication study","https://www.science.org/doi/10.1126/sciadv.abd1705","original"
+"Waiting until my paper gets retracted because some rando finds a bug in my code","https://twitter.com/lakens/status/1542018352968863745?s=20","original"
+"Your data getting scooped before you can say open sci...","https://quantpalaeo.wordpress.com/2018/02/26/been-scooped-a-discussion-on-data-stewardship/","original"
+"Having a little cry on the toilet","","original"
+"Buggy research software collecting dust in a private repository until the heat death of the universe","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0","original"
+"Realizing that your research is unique your data is unique and your greatness is the most unique of them all","","original"
+"Making ALL your data public (with a short embargo of 50 years)","","original"
+"Selling our inventions to the journal Frontiers in Hell","https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html","original"
+"Nobody in my field caring about it","https://blogs.lse.ac.uk/impactofsocialsciences/2014/04/23/academic-papers-citation-rates-remler/","original"
+"My 30+ years of experience as a researcher","","original"
+"The upcoming publication deadline","","original"
+"Sexy state secrets","","original"
+"An Attribution-NonCommercial-ShareAlike 4.0 International license","https://creativecommons.org/choose/","original"
+"Turning in your final version for the fourteenth time","https://phdcomics.com/comics/archive_print.php?comicid=1531","original"
+"Good practice","","original"
+"Financing the CEO of Elsevier's fourth boat","https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science","original"
+"Teaching preteens how to build a nuclear bomb","","original"
+"Feeding the trolls with another paper they can cherry pick the s*** out of","https://blogs.lse.ac.uk/impactofsocialsciences/2018/01/11/new-research-must-be-better-reported-the-future-of-society-depends-on-it/","original"
+"The press reducing my nuanced findings to a flashy headline","https://www.smbc-comics.com/comic/science-journalism","original"
+"Asking 1800 euro to put a PDF online","https://www.youtube.com/watch?v=8F9gzQz1Pms","original"
+"Generations of ill-informed decision making because of walled-off flawed research","https://www.nature.com/articles/nature.2015.18248","original"
+"Spaghetti code and broken dreams","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0","original"
+"Endless bug fixes","https://the-turing-way.netlify.app/reproducible-research/testing","original"
+"'git blame' sessions","https://dev.to/sanspanic/blaming-git-blame-1f4o","original"
+"Code review therapy sessions","https://www.software.ac.uk/blog/2022-03-18-treat-your-research-code-code-review#:~:text=Code%20Review%20is%20a%20softwaredifferent%20from%20academic%20peer%20review.","original"
+"Committing without testing","https://the-turing-way.netlify.app/reproducible-research/testing/testing-checklist","original"
+"An infinite `for` loop","","original"
+"Copy-pasting all your respondents sensitive data into chatGPT to make a pretty boxplot","https://arxiv.org/pdf/2309.17410.pdf","original"
+"Being expected to never make mistakes in your research... ever!","","original"
+"Conveniently excluding some test subjects","https://www.mareonline.nl/en/news/psychologist-committed-fraud-in-15-articles-how-test-subjects-kept-disappearing/","original"
+"Threatening your participants into providing useful data","","original"
+"Just science done wrong","","original"
+"Well-cited studies with 50 failed replication attempts","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8139580/","original"
+"Citizen scientists breaking the only working printer","","original"
+"Mugs of coffee at 3 am","","original"
+"Making my research open and reproducible while my competitors are p-hacking their way into the big journals","https://embassy.science/wiki/Theme:6b584d4e-2c9d-4e27-b370-5fbdb983ab46","original"
+"Impact factors","","original"
+"Predatory journals","https://thinkchecksubmit.org/","original"
+"Sacrificing the intern","","original"
+"Flawless replication","","original"
+"A USB-stick full of sensitive data","https://www.rug.nl/digital-competence-centre/privacy-and-data-protection/data-protection/data-leak?lang=en","original"
+"Leaving academics to become a beet farmer","https://media.giphy.com/media/dXf93EHY6advUBYC0u/giphy.gif","original"
+"The effects of moon phases on stock market trends","","original"
+"scriptA_001_final_new_after_feedback_actually_final2.R","https://r-bio.github.io/intro-git-rstudio/","original"
+"Smashing things together until results fall out","","original"
+"Coffee stained data management plans","","original"
+"Post-its with 'pls do not steal thx' as a license","https://zenodo.org/record/2248200","original"
+"The FAIRy spreading her FAIRy principles all over our data in the night","https://www.go-fair.org/fair-principles/","original"
+"Workload piling up and sanity breaking down","https://www.go-fair.org/fair-principles/r1-1-metadata-released-clear-accessible-data-usage-license/","original"
+"Being an expert in your field AND data management AND ethics AND software development AND public engagement AND ...","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0","original"
+"A python 2.7 script I inherited from a previous PhD student who left 10 years ago","https://book.the-turing-way.org/collaboration/new-community/new-community-techissues.html?highlight=legacy#reproducibility-is-even-more-important","nlrse"
+"A machine that's still running on Windows 95","","nlrse"
+"3 hours of troubleshooting a missing comma","","nlrse"
+"Dockerizing my PhD's precarious working conditions","https://book.the-turing-way.org/reproducible-research/renv/renv-containers.html","nlrse"
+"Sending users to 'users/One Drive/C:/Documents/projects/grant-projects/old-grants/ERC/pilot1/'","","nlrse"
+"Sofware maintained by a lonely Belgian professor","https://lavaan.ugent.be/about/about.html","nlrse"
+"A tiny shell script that replaces my job","","nlrse"
+"Coding with my crush","","nlrse"
+"Sending code around via e-mail","","nlrse"
+"Being accused of Marxist tendencies","https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308","nlrse"
+"Ignoring the 10k issues users submitted to my OS project","","nlrse"
+"Citing stackoverflow in your research paper","","nlrse"
+"Code that explains itself","","nlrse"
+"The holy grail of clean code","","nlrse"
+"chatGPT","","nlrse"
+"Rubber duck debugging","","nlrse"
+"Putting a plain-text personal access token on GitHub","","nlrse"
+"(sudo) rm -r /","","nlrse"
+"Untested code generated by an LLM","https://www.itworldcanada.com/post/research-raises-concerns-over-ai-impact-on-code-quality","nlrse"
+"The university suing us for making our code publicly available.","https://fair-software.nl/recommendations/license","nlrse"
+"Where code goes to die","https://www.metabase.com/blog/bus-factor","nlrse"
+"Wanting to make all research data available through Edmond, but failing with the login","https://edmond.mpg.de/","mpdl"
+"Wanting to look up my paper on MPG.PuRe, but I forgot my glasses","https://pure.mpg.de/","mpdl"
+"Our SoLiBe missing the voting for our most important research software","https://www.soli.mpdl.mpg.de/en/aboutus/","mpdl"
+"Using the SMP catalogue in RDMO for MPG","https://rdmo.mpdl.mpg.de/","mpdl"
+"Praying for that one book being included in the MPDL's e-book collection","https://ebooks.mpdl.mpg.de/ebooks/","mpdl"
+"Friendly collaboration between Max Planck Institutes","","mpdl"
+"Using Keeper to preserve our research data for the long haul","https://keeper.mpdl.mpg.de/","mpdl"
+"Using the Administrative Headquarters' coffee machine as a makeshift lab equipment","","mpdl"
+"Who can get the MPG president to retweet their research","","mpdl"
+"Activate bureaucracy cheat code to finance the event dinner","","mpdl"
+"Never giving up my precious paper notebooks, never falling for Labfolder propaganda","https://labfolder.mpdl.mpg.de/home/","mpdl"
+"Free bee wiggle videos as screensaver ","https://edmond.mpg.de/file.xhtml?fileId=237603&version=1.0","mpdl"
+"My PI accusing me of witchcraft for using bloxberg ","https://bloxberg.org/","mpdl"
+"All MPG directors agreeing on something","","mpdl"
+"Asking our library for a publishing report 3 days before the SAB","","mpdl"
+"Accidentally clicking the big blue button in a major MinervaMessenger channel","https://minervamessenger.mpdl.mpg.de/login","mpdl"
+"My Nobel Prize being stolen","","AI"
+"Making all our data public, even the embarrassing parts","","AI"
+"Sharing our failed experiments on social media","","AI"
+"A rival lab scooping our data ","","AI"
+"Exploding chemicals","","AI"
+"Only being able to use fancy proprietary GUIs","","AI"
+"The Open Source community judging my coding skills","","AI"
+"A Ouija board validating my results ","","AI"
+"dancing with pipettes","","AI"
+"Pretty sure it's a front for a pyramid scheme","","AI"
+"Eating weird lab-grown foods","","AI"
+"It's a proprietary algorithm! Definitely not just Excel","","AI"
+"A lot of glitter and hope for the best","","AI"
+"Just copy-paste from last year's paper","","AI"
+"Constant one-upmanship and passive-aggressive comments","","AI"
+"It's too big to fit on a floppy disk","","AI"
+"Who can stay in the lab the longest","","AI"
+"The movie deal has to be finalized","","AI"
+"It's too difficult to explain in a tweet","","AI"
+"Who can publish the most papers with the most authors","","AI"
+"Only for researchers with tenure","","AI"
+"Waiting for the technical support team to catch up","","AI"
+"My PI's personal hobbyhorse","","AI"
+"A waste of time, unless you're trying to get a grant","","AI"
+"Not really science, just common sense","","AI"
+"Trying to protect my intellectual property","","AI"
+"The fear of being wrong, but loudly","","AI"
+"Our unique snowflake of a research question","","AI"
+"Robust statistical analysis, and also magic","","AI"
+"A mix of empirical evidence and tradition","","AI"
+"New lab coats with names on them","","AI"
+"Luring in more unsuspecting students to do the work","","AI"
+"Shifting the blame to the graduate students","","AI"
+"A chance to give a TED talk","","AI"
+"The crushing weight of our own ego","","AI"
+"Constant updates to our dependencies","","AI"
+"Copy-pasting from Stack Overflow","","AI"
+"Just a few spreadsheets and some sticky notes","","AI"
+"A bunch of scribbled notes on napkins","","AI"
+"A lot of coffee and a willingness to cry","","AI"
+"A time machine to go back and fix all my past mistakes","","AI"
+"Sticking it to the man and disrupting the traditional publishing model","","AI"
+"Being able to say I'm a good person and sleep better at night","","AI"
+"Ancient texts and mystical incantations","","AI"
+"Random numbers and wishful thinking","","AI"
+"Sentient beings with feelings and emotions","","AI"
+"Realistic deepfakes of our colleagues","","AI"
+"Our tendency to ignore inconvenient data","","AI"
+"The great pipette-tip-heist of 2022","","AI"
+"A large pizza party","","AI"
+"A team of expert developers","","AI"
+"Publishing papers with made-up authors","","AI"
+"Publishing all our data and methods","","AI"
+"Collaborating with other labs and sharing resources","","AI"
+"Using open-source software and contributing back to the community","","AI"
+"Being transparent about our methods and limitations","","AI"
