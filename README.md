@@ -37,7 +37,7 @@ Open Science Against Humanity is based on Cards Against Humanity, which was rele
 
 The [NL-RSE](https://nl-rse.org/)-logo was originally created by [@ctwhome](https://www.ctwhome.com) and licensed under [Creative Commons BY-NC-SA 2.0 license](https://creativecommons.org/licenses/by-nc-sa/2.0/). We made some adjustments to the original logo to make it blend better with the aesthetic of the overall game.
 
-The Max Planck Digital Library logo used here is protected by copyright and may only be used for the purposes of this game. Any further use must be discussed with the Max Planck Digital Library.
+The Minerva logo, which represents the Max Planck Society, is protected by copyright and may only be used for the purposes of this game. Any other use must be agreed upon with the Max Planck Society for the Advancement of Science e.V. 
 
 The code for generating the cards is licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
 
@@ -46,7 +46,9 @@ The code for generating the cards is licensed under the [Apache 2.0 license](htt
 All cards containing the MPDL Logo were added in preparation of the [Open Science Ambassadors Meeting 2024](https://osip.mpdl.mpg.de/open-science-ambassadors/osa-meeting-2024/) and cover specifics of the Max Planck Society. For the same event additional white card answers were generated via AI prompts. 
 Attribution of the different contents can be found in the .csv files. The version used and printed for the event did not yet include the NL-RSE additions. It is available via [MPG.PuRe](https://hdl.handle.net/21.11116/0000-0010-6D15-D). 
 
-Questions regarding this MPDL version can be directed towards: [osip@mpdl.mpg.de](osip@mpdl.mpg.de)
+The Jupyter Notebook can be used to further adapt the card game: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MPDL/OpenScienceAgainstHumanity/HEAD)
+
+Questions regarding this MPDL version can be directed towards: [osip@mpdl.mpg.de](mailto:osip@mpdl.mpg.de)
 
 Watch closely 🕵️‍♀️ All cards that have the NL-RSE logo on it were thought of by the community during a session on the [National Research Software Day 2024](https://www.esciencecenter.nl/national-research-software-day-2024/).
 
