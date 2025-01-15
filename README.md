@@ -8,7 +8,7 @@
 Yes, the title is ironic. This game is all about exploring **Open Science** in a fun, interactive way—celebrating its incredible potential (*for* humanity) while also unpacking its challenges and pitfalls. Our goal is to spark curiosity, foster learning, all to make the research game more [**FAIR**](https://www.go-fair.org/fair-principles/).
 Are you ready to play, learn, and laugh your way through the world of **Open Science**?🙌
 
-This game can be played in person or online. If you are interested in the printed game, please [reach out](rdm@vu.nl) to us!
+This game can be played in person or online. If you are interested in the printed game, please [reach out](rdm@vu.nl)!
 You can find the original version here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10017280.svg)](https://doi.org/10.5281/zenodo.10017280) and on [GitHub](https://github.com/ubvu/OpenScienceAgainstHumanity).
 
 ## Goal of the Game
